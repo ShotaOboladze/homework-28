@@ -1,0 +1,170 @@
+* {
+    box-sizing: border-box;
+    font-family:'Poppins';
+}
+
+body {
+    background-color: #F0F2F5;
+    margin: 0;
+}
+
+.container-left {
+    width: 50%;
+    position: relative;
+    padding-top: 100px;
+    float: left;
+}
+
+#arrow-vector, h3, #p-1, #sing-up, #google-vector, #facebook-vector, .container {
+    position: absolute;
+}
+
+#arrow-vector {
+    top: 35px;
+    left: 15px;
+}
+
+h3 {
+    top: 20px;
+    left: 55px;
+    font-family: 'Inter';
+}
+
+#p-1 {
+    top: 25px;
+    right: 80px;
+}
+
+#sing-up {
+    top: 40px;
+    right: 20px;
+    color: #20DC49;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 40px;
+    padding-top: 60px;
+    margin-bottom: -10px;
+    text-shadow: 1px 1px black;
+}
+
+h4 {
+    text-shadow: 1px 1px white;
+    margin-bottom: 40px;
+}
+
+button {
+    position: relative;
+    width: 115px;
+    height: 35px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding-left: 40px;
+}
+
+#google-vector {
+    left: 28px;
+    top: 7px;
+}
+
+#facebook-vector {
+    left: 18px;
+    top: 5px;
+}
+
+#p-2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+input {
+    width: 340px;
+    height: 60px;
+    border: 0.5px solid #D9D9D9;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+#log-in {
+    height: 50px;
+}
+
+#elipse {
+    width: 40px;
+    height: 22px;
+    text-align: left;
+    border-radius: 200px;
+    background-color: #ECECEC;
+    border: 0.5px solid #C9C9C9;
+    margin-left: 148px;
+    margin-right: 180px;
+    float: left;   
+}
+
+#radio {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;  
+}
+
+#radio:hover {
+    margin-right: 10px;
+}
+
+#recover-password {
+    color: #D93F21;
+    text-decoration: none;
+    float: left;
+}
+
+#log-in {
+    border: 1px solid #5A5A5A;
+}
+
+.container-right {
+    width: 50%;
+    position: relative;
+    float: left;
+}
+
+#Office-png {
+    width: 100%;
+}
+
+.container {
+    width: 540px;
+    height: 240px;
+    background-color: #FFF2F2;
+    border-radius: 10px;
+    padding: 30px;
+    top: 620px;
+    right: 44px;
+}
+
+.box {
+    width: 240px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 8px;
+    border-radius: 10px;
+    background-color: #20DC49;
+    right: 0;   
+}
+
+#hand-vector {
+    float: left;
+    margin-right: 10px;
+}
+    
+h5 {
+    float: left;
+    margin-top: 5px;
+}
+
+#p-3 {
+    font-size: 24px;
+    width: 430px;
+}
+
